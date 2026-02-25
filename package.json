@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://themewagon.github.io/Landing-react",
+  "homepage": "https://github.com/DevJhoow/JFag-",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
